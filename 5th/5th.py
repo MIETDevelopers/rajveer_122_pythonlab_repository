@@ -1,5 +1,4 @@
 '''Purpose:Write a program to reverse every kth row in a matrix.
-Author: Kavya Dhar
 '''
 # initializing list
 test_list = [[5, 3, 2], [8, 6, 3], [3, 5, 2],
