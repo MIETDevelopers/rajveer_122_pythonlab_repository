@@ -1,5 +1,4 @@
 '''Purpose:Write a python program to convert temperature to and from Celsius to Fahrenheit
-Author: Taposhin
 '''
 def celToFar(temp):
     fahrenheit = (temp * 1.8) + 32
